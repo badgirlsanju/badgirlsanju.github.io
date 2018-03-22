@@ -35,7 +35,7 @@ footer:
   copyright: Sanjana Khetan
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Sanjana Khetan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,12 +43,8 @@ social:
     url: http://instagram.com/doopeedoo
   - title: facebook
     url: https://www.facebook.com/sanjanakhetan
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/sanjana-khetan-897671106/
 
 # Postal address (add as many lines as necessary)
 address:
