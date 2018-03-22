@@ -52,7 +52,7 @@ address:
   - line: Toronto, ON M5S 2M8
 
 # Credits content
-credits: 'Hi! I am a student interested in analytics, design, and epidemiology'
+credits: 'Hi! I am a student interested in analytics, design, and epidemiology.'
 
 # Build settings
 markdown: kramdown
