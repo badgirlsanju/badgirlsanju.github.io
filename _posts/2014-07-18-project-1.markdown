@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: resume.png
+img: curriculum.png
 alt: image-alt
 
 ---
